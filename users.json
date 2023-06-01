@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "64622f2f093344a64f680043"
+  },
+  "name": "Võ Đình Anh Khuê",
+  "email": "bookerkhue@gmail.com",
+  "password": "$2a$10$.WJAYEhtHhsEz5Ma9P4Sg.KZsJsuE9eCHFc2yK8DKjbvc0VliD9QS",
+  "isBooker": true,
+  "acceptBooker": true,
+  "avatar": "uploads\\ava2.jpg",
+  "img": [
+    "uploads\\26160e3d9380622e32e8240ceab025f3.jpg",
+    "uploads\\0b47dcec1c5ef4bfcc03915beeeb9a99.jpg"
+  ],
+  "listProject": [],
+  "__v": 0,
+  "address": "19 Tô Vĩnh Diện thành phố Nha Trang",
+  "phone": "0905134260"
+},{
+  "_id": {
+    "$oid": "64622f90093344a64f680045"
+  },
+  "name": "Chủ admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$.WJAYEhtHhsEz5Ma9P4Sg.KZsJsuE9eCHFc2yK8DKjbvc0VliD9QS",
+  "acceptBooker": false,
+  "avatar": "uploads\\360_F_475009987_zwsk4c77x3cTpcI3W1C1LU4pOSyPKaqi.jpg",
+  "img": [],
+  "listProject": [],
+  "__v": 0,
+  "idAdmin": true,
+  "isAdmin": true
+},{
+  "_id": {
+    "$oid": "64632011f445bd5dd0183fe1"
+  },
+  "name": "Võ Khuê Tâm Uyên",
+  "email": "uyen@gmail.com",
+  "password": "$2a$10$tSUEvsmyw2CJ/fNjAGmR6Odq0Y1LN.ayO6U7eyj2ZtNzpCcNz5rTe",
+  "isBooker": false,
+  "acceptBooker": false,
+  "avatar": "uploads\\d3fafa9e39a33ee45bbf81e855675c79.PNG",
+  "img": [],
+  "listProject": [],
+  "__v": 0,
+  "address": "46 Thiên Phước P9 Q. Tân Bình HCM",
+  "balanceCoin": 239901,
+  "phone": "0931633302"
+},{
+  "_id": {
+    "$oid": "6463295cf445bd5dd01841ae"
+  },
+  "name": "Hoàng Như Ngọc",
+  "email": "ngoc@gmail.com",
+  "password": "$2a$10$tSUEvsmyw2CJ/fNjAGmR6Odq0Y1LN.ayO6U7eyj2ZtNzpCcNz5rTe",
+  "isBooker": false,
+  "acceptBooker": false,
+  "avatar": "uploads\\90c2ccacea3a7eedbdbfc6631cf813ce.png",
+  "img": [],
+  "listProject": [],
+  "__v": 0,
+  "balanceCoin": 192900
+},{
+  "_id": {
+    "$oid": "6463346159706ae836afd61a"
+  },
+  "name": "Nguyễn Quốc Thành",
+  "email": "thanh@gmail.com",
+  "password": "$2a$10$2z6blLNkEReAjxky/2h4Yu3mXjBywbuATK7.B0FNZIyg4xlFrml52",
+  "isBooker": true,
+  "acceptBooker": true,
+  "avatar": "uploads\\92b9548a369ed4a934c2857f75e1340c.jpg",
+  "img": [],
+  "listProject": [],
+  "__v": 0,
+  "balanceCoin": 2000
+},{
+  "_id": {
+    "$oid": "646334f13bf9274eb019287c"
+  },
+  "name": "Phạm Lê Hải Triều",
+  "email": "trieu@gmail.com",
+  "password": "$2a$10$NHwX4ZSdsQ6eQyn9UM1q1u92oreCwNgCJk7E/pD96WgECZFNiINL6",
+  "isBooker": false,
+  "acceptBooker": false,
+  "avatar": "uploads\\9befa46064245e1a8404dfcbfbf9663f.jpg",
+  "img": [],
+  "listProject": [],
+  "__v": 0,
+  "balanceCoin": 499600
+},{
+  "_id": {
+    "$oid": "646335a73bf9274eb01928ab"
+  },
+  "name": "Lê Thị Hoài Tâm",
+  "email": "bookertam@gmail.com",
+  "password": "$2a$10$NHwX4ZSdsQ6eQyn9UM1q1u92oreCwNgCJk7E/pD96WgECZFNiINL6",
+  "isBooker": true,
+  "acceptBooker": true,
+  "avatar": "uploads\\b1dd28bd95ef3bc45a3be7d21a5c34f0.jpg",
+  "img": [
+    "uploads\\990398711f07098ea4590ae3f91c9a88.png"
+  ],
+  "listProject": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64645b4c7327805344e9218a"
+  },
+  "name": "Khánh Booker",
+  "email": "khanhBooker@gmail.com",
+  "password": "$2a$10$BVN4Cj4BhwRY0uc9HC45P.BIIkBv5KZpJQhGVYWQzQvr7hLOeHYQG",
+  "isBooker": true,
+  "acceptBooker": true,
+  "avatar": "uploads\\4022cf2d90402e04c85f80cf3d96596f.jpg",
+  "img": [
+    "uploads\\4356543ce224725f89f2906547fe82cc.png",
+    "uploads\\9242ee2c53c82c1a617f22f55e681c99.png"
+  ],
+  "listProject": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b131bf8ae9d827faddc2f"
+  },
+  "name": "pham anh vu",
+  "email": "vu@gmail.com",
+  "password": "$2a$10$pFR984ht1uVM5S3D.20mve2XQe8GquJVc3Dy1Kr1hzR2Uw070SXG.",
+  "isBooker": false,
+  "acceptBooker": false,
+  "balanceCoin": 252300,
+  "avatar": "uploads\\9847740b1df60e95e4ba95e488878f07.jpg",
+  "img": [],
+  "listProject": [],
+  "__v": 0,
+  "address": "26 nguyen tao",
+  "phone": "0987653455"
+}]
